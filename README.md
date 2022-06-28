@@ -4,9 +4,9 @@ Gender Detection And Age Prediction Using OpenCV And Caffe
 [![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://github.com/NagaSatyaSaiPavirala/Gender-Detection-And-Age-Prediction-Using-OpenCV-And-Caffe/tree/main)
 
 
-“Online engineering books (learn to earn)” is an online based web portal which provides free access to all 8 semesters engineering books of all the main engineering streams. The students or the faculties can access this portal and get free access to the books for improving their knowledge.
+“Gender Detection And Age Prediction Using OpenCV And Caffe” is a python project which uses OpenCV library for camera input and Caffe deep learning framework by facebook to detect gender and age using pre trained Caffe models of Tal Hassner and Gil Levi which are trained by using Adience Benchmark Dataset of Kaggle and it makes use of Convolution Neural Networks comprising of many different layers.
 
-Our main target is to avoid unemployment of engineering students if they have good knowledge and no arrears so that they can be placed in a good company and can contribute to the development of nation
+Our main intention is to easy the process of finding criminals by searching in the given age group and gender and it also can be used to decide on how to communicate based on the gender.
 
 SCREENSHOTS:
 
