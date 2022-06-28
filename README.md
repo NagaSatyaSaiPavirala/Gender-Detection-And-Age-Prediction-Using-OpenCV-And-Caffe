@@ -10,17 +10,17 @@ Our main intention is to easy the process of finding criminals by searching in t
 
 SCREENSHOTS:
 
-Index page
+Input from camera
 
-![Alt text](https://nagasatyasaipavirala.github.io/Online-Engineering-Books/Index.png)
+![Alt text](from camera.png)
 
-Registration page
+Input from image
 
-![Alt text](https://nagasatyasaipavirala.github.io/Online-Engineering-Books/Registration%20form.png)
+![Alt text](from image.png)
 
-Validation
+Input from video
 
-![Alt text](Validation.png)
+![Alt text](from video.png)
 
 Registered
 
