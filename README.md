@@ -16,11 +16,11 @@ Input from camera
 
 Input from image
 
-![Alt text](from image.png)
+![Alt text](from%20image.png)
 
 Input from video
 
-![Alt text](from video.png)
+![Alt text](from%20video.png)
 
 Registered
 
